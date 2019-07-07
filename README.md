@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://github.com/glebbatov/SimpleCalculator/blob/master/iconNew.png?" width="125">
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.glebbatovsimplecalculator.SimpleCalculator"><h1>Simple Calculator</h1></a>
-  <h3>[C#, Java, Xamarin, XML, Android, Visual Studio]</h3>
+  <h3>[Android, C#, Java, Xamarin, XML, Visual Studio]</h3>
 <p>
   
 Super simple calculator for your everyday calculation needs.
