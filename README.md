@@ -4,6 +4,9 @@
   <h3>[Android, C#, Java, Xamarin, XML, Visual Studio]</h3>
 <p>
   
+Google Play:
+https://play.google.com/store/apps/details?id=com.glebbatovsimplecalculator.SimpleCalculator
+  
 Super simple calculator for your everyday calculation needs.
 #
 
