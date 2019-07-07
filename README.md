@@ -1,7 +1,8 @@
-
+<p align="left">
   <img src="https://github.com/glebbatov/SimpleCalculator/blob/master/iconNew.png?" width="125">
-  <a href="https://play.google.com/store/apps/details?id=com.glebbatovsimplecalculator.SimpleCalculator" style="color:#ffcc00; font-size:120px; text-decoration:underline">SimpleCalculator</a>
-
+  <a href="https://play.google.com/store/apps/details?id=com.glebbatovsimplecalculator.SimpleCalculator"><h1>SimpleCalculator</h1></a>
+<p>
+  
 Super simple calculator for your everyday calculation needs.
 <p>
 <p align="left">
