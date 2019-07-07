@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest 
+  xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:versionCode="2" 
+  android:versionName="1.1" 
+  package="com.glebbatovsimplecalculator.SimpleCalculator" 
+  android:installLocation="auto">
+	<uses-sdk 
+    android:minSdkVersion="21" 
+    android:targetSdkVersion="27" />
+	<application 
+    android:allowBackup="true" 
+    android:label="@string/app_name" 
+    android:roundIcon="@mipmap/ic_launcher_round" 
+    android:supportsRtl="true" 
+    android:theme="@style/AppTheme" 
+    android:icon="@mipmap/ic_launcher_foreground">
+		<Application.Resources>
+			<ResourceDictionary>
+				<Style 
+          TargetType="button">
+					<Setter 
+            Property="FontFamily" 
+            Value="/Assets/impact.ttf#Open Sans" />
+					<Setter 
+            Property="FontSize" 
+            Value="11dp" />
+				</Style>
+			</ResourceDictionary>
+		</Application.Resources>
+	</application>
+</manifest>
