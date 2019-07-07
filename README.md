@@ -1,6 +1,7 @@
 <p align="left">
   <img src="https://github.com/glebbatov/SimpleCalculator/blob/master/iconNew.png?" width="125">
   <a href="https://play.google.com/store/apps/details?id=com.glebbatovsimplecalculator.SimpleCalculator" style="font-size: 100px; text-decoration: none">SimpleCalculator</a>
+  <a href="selectTopic?html" style="font-size: 100px; text-decoration: none">HTML 5</a>
 </p>
 Super simple calculator for your everyday calculation needs.
 <p>
