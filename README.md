@@ -5,6 +5,8 @@
 <p>
   
 Super simple calculator for your everyday calculation needs.
+#
+
 <p>
 <p align="left">
   <img src="https://github.com/glebbatov/SimpleCalculator/blob/master/1.png" width="250">
