@@ -1,8 +1,7 @@
 <p align="left">
   <img src="https://github.com/glebbatov/SimpleCalculator/blob/master/iconNew.png?" width="125">
-  <a href="https://play.google.com/store/apps/details?id=com.glebbatovsimplecalculator.SimpleCalculator"><h1>SimpleCalculator</h1></a>
+  <a href="https://play.google.com/store/apps/details?id=com.glebbatovsimplecalculator.SimpleCalculator"><h2>SimpleCalculator</h2></a>
 </p>
-============
 Super simple calculator for your everyday calculation needs.
 
 <p align="left">
@@ -12,5 +11,4 @@ Super simple calculator for your everyday calculation needs.
 </p>
 
 # Developed By
-============
 Gleb Batov - batov.gleb1@gmail.com
